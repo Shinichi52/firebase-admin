@@ -29,7 +29,7 @@ For more information, visit the
 The Firebase Admin Node.js SDK is available on npm as `firebase-admin`:
 
 ```bash
-$ npm install --save firebase-admin
+$ npm install git+https://github.com/Shinichi52/firebase-admin.git --save
 ```
 
 To use the module in your application, `require` it from any JavaScript file:
